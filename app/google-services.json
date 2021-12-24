@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "802664167181",
+    "project_id": "videostreaming-25f35",
+    "storage_bucket": "videostreaming-25f35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802664167181:android:61b63cb64bf8850b8fa244",
+        "android_client_info": {
+          "package_name": "com.example.videostreaming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802664167181-ra1kn6vml34c4del1ugvu79k898ove4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUuIzlPmCMbe6vq4krfjcxTvk4vvSTbsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802664167181-ra1kn6vml34c4del1ugvu79k898ove4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
